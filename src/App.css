@@ -1,0 +1,22 @@
+.Legend h1 {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.Legend {
+  font-size: 0.8rem;
+  position: absolute;
+  padding: 5px;
+  border-radius: 5px;
+  top: 10px;
+  left: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+.Legend li {
+  cursor: pointer;
+}
+.Legend li:hover {
+  text-decoration: underline;
+}
