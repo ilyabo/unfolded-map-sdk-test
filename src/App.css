@@ -14,7 +14,15 @@
   border: 1px solid #ccc;
 }
 
+.Legend > *+* {
+  margin-top: 5px;
+}
+
 .Legend li {
+  width: 140px;
+  text-align: center;
+  list-style-type: none;
+  font-size: 14px;
   cursor: pointer;
 }
 .Legend li:hover {

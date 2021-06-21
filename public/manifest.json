@@ -1,6 +1,6 @@
 {
-  "short_name": "Карта задержаний на акциях в поддержку Навального 23 января 2021 г.",
-  "name": "Задержания на акциях в поддержку Навального 23 января 2021 г.",
+  "short_name": "Unfolded Map SDK test app",
+  "name": "Unfolded Map SDK test app",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
