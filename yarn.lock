@@ -1978,10 +1978,10 @@
     "@typescript-eslint/types" "4.8.1"
     eslint-visitor-keys "^2.0.0"
 
-"@unfolded/map-sdk@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@unfolded/map-sdk/-/map-sdk-0.2.0.tgz#05506a48d2aec3ea298796aaaf27f0ec56d184b1"
-  integrity sha512-2WCF0jNsSWQPyXBd/Xv9HrUZUKGbJn3G+PzMrgvYcZGhe4foxKwOyLoPfABzjiXjqkSXd8HJNhIRZNAMtw8sUw==
+"@unfolded/map-sdk@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@unfolded/map-sdk/-/map-sdk-0.2.1.tgz#8c1ed4137b16d589afcda8d494afb3432d0c887c"
+  integrity sha512-CPXXytegS3mAfXNyPFgWujx6RUCwUHjXO6ER91m3tZUKJqjKAJk+XQzwFQ+ouuPsHrmr77V5QefhaGUFctkJdA==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
